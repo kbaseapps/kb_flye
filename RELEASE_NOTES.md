@@ -1,6 +1,10 @@
 # kb_flye release notes
 =========================================
 
+1.0.1
+-----
+* Remove the limits on reads size to allow users to attempt assemblies >10 GB
+
 1.0.0
 -----
 * Initial non-beta release
